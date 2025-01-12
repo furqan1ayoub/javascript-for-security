@@ -1,0 +1,3 @@
+# objects are immutable kinda data type and consisits of different combination of data types in a key as value
+``i.e key can be only just string with no but in b/w like abc1 not like 1abc -> general rule for variable/identifiers declaring ``
+``or any thing specific like is_Strong/name/age i.e sth telling about what data is---but value can haved different data type value i.e int,str,even array and 2d array too i.e [[]]``
