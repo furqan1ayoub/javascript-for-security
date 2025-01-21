@@ -1,6 +1,6 @@
+// Arrays -> Speical Variables Holds more than 1 value at a time (various data types)
 
-
-
+//we use -> for->complexQs / for off--> simpleQs  here  
 
 
 // Find the average of marks in an array
