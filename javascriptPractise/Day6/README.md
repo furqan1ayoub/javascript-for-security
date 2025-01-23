@@ -13,8 +13,7 @@
 
 2) **Methods Require results to store in New Variable**
 
-
-```
+```eg) concat , toString , slice. 
  concat => adds two or more string in one combined array 
 
 tostring => all array element change into array - but keep it in variable to store and use & 
