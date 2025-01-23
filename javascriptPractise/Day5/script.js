@@ -6,14 +6,14 @@
 // Find the average of marks in an array
 
 let marksArray = [85, 97, 37, 75, 60]; // This can be Changed so used "let"
-let totalMarks = 0;
+let totalMarks = 0;//box
 let studentCount = 0;
 
 for (let marks of marksArray) {
   totalMarks += marks;
   studentCount++;
 }
-
+//Now find avg
 const averageMarks = totalMarks / studentCount; // this is here constant So We use "Const"
 console.log(`The Average of All Marks = ${averageMarks}`);
 
