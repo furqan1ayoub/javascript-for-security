@@ -32,7 +32,7 @@ console.log(combined_array)
 // toString(arrayName) -> changes the array to string and need saving it to  a variable
 // to store the string now We have to make a variable...
 
-array2342 = ["furqan"]
+array2342 = ["furqan","Hi"]
 a = array2342.toString()
 console.log(a)
 
