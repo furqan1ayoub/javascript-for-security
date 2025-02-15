@@ -1,0 +1,64 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.full-project{
+	margin-top: 2rem;
+	background-color: red;
+	height: 21rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 2px
+}
+
+.countdown-section{
+	display: flex;
+	gap: 2rem;
+}
+#Cd-btn1,#Cd-btn2{
+	background-color: aqua;
+	padding: 19px ;
+	border-radius: 12%;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+
+#count-no{
+	color:blanchedalmond;
+	padding-top: 0.8rem;
+
+}
+.reset-theme-btns{
+	display: flex;
+	width: 10rem;
+	height: 2rem;
+	padding: 12px 10px 8px 50px;
+	gap: 2rem;
+}
+
+#rst-btn,#theme-btn{
+	padding: 7px;
+	border-radius: 12%;
+	background-color: blueviolet;
+	color:white;
+	border: none;
+	outline: none;
+}
+#rst-btn:hover{
+	background:green;
+	color: white;
+	cursor: pointer;
+}
+#theme-btn:hover{
+	background:green;
+	color: white;
+	cursor: pointer;
+}
+
+.themeBlack{
+	background-color: black;
+}
