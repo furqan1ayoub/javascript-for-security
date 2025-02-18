@@ -1,0 +1,46 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.full-form{
+	background-color: rgb(160, 17, 17);
+	height: 25rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 7rem 19rem;
+	width: 550px;
+	gap: 1.8rem;
+	border: 1.5px solid black;
+	border-radius: 3%;
+}
+h1{
+	color: floralwhite;
+}
+
+#pwd,#name{
+	background-color: rebeccapurple;
+	color: white;
+	outline: none;
+	border: none;
+	cursor: text;
+	padding: 0.2rem;
+}
+label{
+	color: bisque;
+}
+
+#submit{
+	background-color: cadetblue;
+	color: antiquewhite;
+	padding: 5px;
+	border: none;
+	border-radius: 3%;
+	cursor: pointer;
+}
+#submit:hover{
+	background-color: black;
+	
+}
